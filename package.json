@@ -1,0 +1,23 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "a simple node js proxy server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaXJha/Proxy-js.git"
+  },
+  "author": "Aditya Jha",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AdityaXJha/Proxy-js/issues"
+  },
+  "homepage": "https://github.com/AdityaXJha/Proxy-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
