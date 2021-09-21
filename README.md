@@ -5,7 +5,7 @@ A simple node js proxy I made for my laptop just cause I didn't wanted to see vp
 ```
 git clone https://github.com/AdityaXJha/Proxy-js
 ```
-```js
+```javascript
 npm install
 npm start
 ```
